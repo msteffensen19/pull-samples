@@ -10,6 +10,7 @@ git clone http://nimbusserver:8091/git/vugen-flight-te
 git clone http://nimbusserver:8091/git/vugen-html-correlation-examples
 git clone http://nimbusserver:8091/git/vugen-aos-shopping
 git clone http://nimbusserver:8091/git/vugen-truclient-aos-ios
+git clone http://nimbusserver:8091/GIT/vugen-sample-script
 
 # Since the pulled scripts have the same name inside of git we rename them first with a move command
 # Leave the correlation example in a git repo - don't move, copy or delete
