@@ -5,7 +5,7 @@
 # This sample also exists on the public admpresales git hub so they could also be cloned from 
 # https://github.com/admpresales/
 
-copy pull-analysis-samples.bat C:\Users\demo\Documents\Analysis
-copy pull-scenario-samples.bat C:\Users\demo\Documents\Controller\scenario
-copy pull-uft-samples.bat C:\Users\demo\Documents\Unified Functional Testing
-copy pull-vugen-samples.bat C:\Users\demo\Documents\VuGen\Scripts
+copy pull-analysis-samples.bat "C:\Users\demo\Documents\Analysis"
+copy pull-scenario-samples.bat "C:\Users\demo\Documents\Controller\scenario"
+copy pull-uft-samples.bat "C:\Users\demo\Documents\Unified Functional Testing"
+copy pull-vugen-samples.bat "C:\Users\demo\Documents\VuGen\Scripts"
