@@ -6,6 +6,6 @@
 # https://github.com/admpresales/
 
 copy pull-analysis-samples.bat C:\Users\demo\Documents\Analysis
-copy pull-scenrio-samples.bat C:\Users\demo\Documents\Controller\scenario
+copy pull-scenario-samples.bat C:\Users\demo\Documents\Controller\scenario
 copy pull-uft-samples.bat C:\Users\demo\Documents\Unified Functional Testing
 copy pull-vugen-samples.bat C:\Users\demo\Documents\VuGen\Scripts
